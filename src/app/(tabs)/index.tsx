@@ -14,6 +14,7 @@ export default function TabOneScreen() {
 
      <Text style={styles.title}>{product.name}</Text> 
      <Text style={styles.price}> ${product.price}</Text>
+     <Text> Size: Medium</Text>
     </View>
   );
 }
