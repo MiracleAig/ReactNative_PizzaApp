@@ -1,2 +1,2 @@
-Pizza app made with React Native
+# Pizza app made with React Native
  - Order pizza with your phone!
